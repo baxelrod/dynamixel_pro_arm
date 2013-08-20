@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>dynamixel_pro_arm</name>
-  <version>0.8.0</version>
+  <version>0.8.1</version>
   <description>The dynamixel_pro_arm package</description>
 
   <maintainer email="baxelrod@willowgarage.com">Brian Axelrod</maintainer>
